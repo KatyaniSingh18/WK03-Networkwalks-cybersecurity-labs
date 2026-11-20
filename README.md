@@ -54,9 +54,9 @@ Locked PDF  →  Extract Hash  →  Dictionary Attack  →  Password Found  → 
 
 | Step | Screenshot |
 |------|-----------|
-| JtR (Johnny) attack | ![Johnny](screenshots/01-johnny-jtr-cracked.png) |
-| Hash extraction | ![Hash Calculator](screenshots/02-hash-calculator-pdf-hash.png) |
-| NW Password Cracker | ![NW Cracker](screenshots/03-nw-password-cracker.png) |
+| JtR (Johnny) attack | ![Johnny](C:\Users\Acer\OneDrive\Desktop\NetworkWALKS\WK-03\01-johnny-jtr-cracked.png) |
+| Hash extraction | ![Hash Calculator](C:\Users\Acer\OneDrive\Desktop\NetworkWALKS\WK-03\02-hash-calculator-pdf-hash.png) |
+| NW Password Cracker | ![NW Cracker](C:\Users\Acer\OneDrive\Desktop\NetworkWALKS\WK-03\/03-nw-password-cracker.png) |
 
 > ⚠️ The flag and cracked password are intentionally hidden/blurred so the lab isn't spoiled for other learners.
 
