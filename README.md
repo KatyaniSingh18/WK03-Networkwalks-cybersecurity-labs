@@ -86,15 +86,3 @@ This work was done in a **controlled lab environment** for **educational purpose
 
 ---
 
-## 🙏 Acknowledgements
-
-Special thanks to **NetworkWalks** and **Waqas Karim (CCIE)** for the opportunity, the hands-on labs, and the guidance.
-
----
-
-## 🔗 Connect
-
-- LinkedIn: _add your profile link here_
-- GitHub: _add your username here_
-
-⭐ If you found this useful, feel free to star the repo!
